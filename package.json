@@ -1,0 +1,18 @@
+{
+  "name": "cypressautomation2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "test_dashboard":"npx cypress run --record --key 719b5c38-f68b-4e88-9f5d-7876c417ddb8"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.6",
+    "cypress-iframe": "^1.0.1",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "xlsx": "^0.18.5"
+  }
+}

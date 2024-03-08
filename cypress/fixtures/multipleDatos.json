@@ -1,0 +1,14 @@
+[
+    {
+        "fullName": "Test1",
+        "email": "test1@test.com",
+        "currentAddress": "direccion 1",
+        "permanentAddress": "direcion 2"
+    },
+    {
+        "fullName": "Test2",
+        "email": "test2@test.com",
+        "currentAddress": "direccion a",
+        "permanentAddress": "direcion b"
+    }
+]
