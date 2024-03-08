@@ -57,7 +57,6 @@ describe("Mi Test Suite", () => {
                 "Thanks for submitting the form"
             );
             cy.get("#closeLargeModal").click({ force: true });
-            //Este es un comentario para probar los cambios en GitHub
         });
     })
 });
